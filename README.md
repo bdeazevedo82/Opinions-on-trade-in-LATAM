@@ -11,7 +11,7 @@ towards trade and regional economic integration is mostly favorable: 72% are ver
 
 To try to answer these questions we estimated a series of Ordered Logit models to analyze the opinions of Latin Americans in favor or against regional economic integration. 
 
-## Content:
+## Content of repository:
 - Description and link to Latinobarometro(LB) database.
 - Python code to load, clean and transform data for statistic analysis and save it in csv format
 - STATA dofile to run a series of Ordered Logit and Logit models, including summary analysis of results, graphs and tables 
