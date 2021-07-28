@@ -14,7 +14,7 @@ To try to answer these questions we estimated a series of Ordered Logit models t
 ## Content:
 - Description and link to Latinobarometro(LB) database.
 - Python code to load, clean and transform data for statistic analysis and save it in csv format
-- STATA code to run a series of Ordered Logit and Logit models, including some graphs and tables 
+- STATA dofile to run a series of Ordered Logit and Logit models, including summary analysis of results, graphs and tables 
 
 Analysis is based and adds on seminal work by Mayda y Rodrik (2001). “Why are some people (and countries) more protectionist than others?”, Working Paper 8461, National Bureau of 
 Economic Research. Disponible en: https://www.nber.org/papers/w8461.pdf
