@@ -1,6 +1,6 @@
 # Opinions on trade in LATAM
 
-This repository contains code on regressions and data analysis used in one of my publications (available in spanish at: https://publications.iadb.org/es/revista-integracion-comercio-2019-el-nuevo-factor-del-comercio-aportes-de-la-economia-del-comportamiento-y-la-opinion-publica-a-la-integracion)
+This repository contains code on regressions and data analysis used in one of my publications (Article available in spanish at: https://publications.iadb.org/es/revista-integracion-comercio-2019-el-nuevo-factor-del-comercio-aportes-de-la-economia-del-comportamiento-y-la-opinion-publica-a-la-integracion, pages 54-69)
 
 ## Summary of article
 A classic line of research in trade and international relations consists of identifying the factors that are decisive when it comes to explaining why certain people and countries
