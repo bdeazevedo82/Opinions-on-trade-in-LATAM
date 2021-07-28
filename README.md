@@ -1,4 +1,4 @@
-# Opinions-on-trade-in-LATAM
+# Opinions on trade in LATAM
 
 This repository contains code on regressions and data analysis used in one of my publications (available in spanish at: https://publications.iadb.org/es/revista-integracion-comercio-2019-el-nuevo-factor-del-comercio-aportes-de-la-economia-del-comportamiento-y-la-opinion-publica-a-la-integracion)
 
